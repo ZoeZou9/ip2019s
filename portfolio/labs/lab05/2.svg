@@ -1,0 +1,55 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0,0,512,512">
+
+  <rect width="512" height="512" stroke="red" fill="white"></rect>
+
+  <text x="2" y="12" font-size="12" text-anchor="start" fill="red">0</text>
+  <path d="M256  64 H0 H512" stroke="lightgray" fill="white"></path>
+  <text x="2" y="64" font-size="12" text-anchor="start" fill="red">64</text>
+  <path d="M256 128 H0 H512" stroke="lightgray" fill="white"></path>
+  <text x="2" y="128" font-size="12" text-anchor="start" fill="red">128</text>
+  <path d="M256 192 H0 H512" stroke="lightgray" fill="white"></path>
+  <text x="2" y="192" font-size="12" text-anchor="start" fill="red">192</text>
+  <path d="M256 256 H0 H512" stroke="lightgray" fill="white"></path>
+  <text x="2" y="256" font-size="12" text-anchor="start" fill="red">256</text>
+  <path d="M256 320 H0 H512" stroke="lightgray" fill="white"></path>
+  <text x="2" y="320" font-size="12" text-anchor="start" fill="red">320</text>
+  <path d="M256 384 H0 H512" stroke="lightgray" fill="white"></path>
+  <text x="2" y="384" font-size="12" text-anchor="start" fill="red">384</text>
+  <path d="M256 448 H0 H512" stroke="lightgray" fill="white"></path>
+  <text x="2" y="448" font-size="12" text-anchor="start" fill="red">448</text>
+  <text x="2" y="512" font-size="12" text-anchor="start" fill="red">512</text>
+
+  <path d="M64  0 V512" stroke="lightgray" fill="white"></path>
+  <text x="64" y="12" font-size="12" text-anchor="start" fill="red">64</text>
+  <path d="M128  0 V512" stroke="lightgray" fill="white"></path>
+  <text x="128" y="12" font-size="12" text-anchor="start" fill="red">128</text>
+  <path d="M195  0 V512" stroke="lightgray" fill="white"></path>
+  <text x="192" y="12" font-size="12" text-anchor="start" fill="red">192</text>
+  <path d="M256  0 V512" stroke="lightgray" fill="white"></path>
+  <text x="256" y="12" font-size="12" text-anchor="start" fill="red">256</text>
+  <path d="M320  0 V512" stroke="lightgray" fill="white"></path>
+  <text x="320" y="12" font-size="12" text-anchor="start" fill="red">320</text>
+  <path d="M384  0 V512" stroke="lightgray" fill="white"></path>
+  <text x="384" y="12" font-size="12" text-anchor="start" fill="red">384</text>
+  <path d="M448  0 V512" stroke="lightgray" fill="white"></path>
+  <text x="448" y="12" font-size="12" text-anchor="start" fill="red">448</text>
+  <text x="512" y="12" font-size="12" text-anchor="start" fill="red">512</text>
+
+
+  <path d="M256 256 V270 V242 M256 256 H270 H242" stroke="black" fill="white"></path>
+  <text x="256" y="256" font-size="16" text-anchor="middle" fill="red">(256, 256)</text>
+
+  <line x1="150" y1="100" x2="150" y2="170" stroke='purple' stroke-width='2' />
+<line x1="150" y1="100" x2="200" y2="150" stroke='purple' stroke-width='2' />
+ <line x1="330" y1="80" x2="230" y2="170" stroke='purple' stroke-width='2' />
+<line x1="330" y1="80" x2="350" y2="150" stroke='purple' stroke-width='2' />
+ 
+  <ellipse cx="250" cy="180" rx="100" ry="60" fill='white' stroke='purple' stroke-width='2'/>
+ <line fill='purple' x1="100" y1="100" x2="200" y2="200"/>
+
+  <polygon stroke="pink" stroke-width='4' fill='#D271FF' points="100,56 62,107 37,49" transform="translate(200,60)"/>
+  <polygon stroke="pink" stroke-width='4' fill='#D271FF' points="100,56 62,107 37,49" transform="translate(280,70)"/>
+<polygon fill="pink" points="151,39 163,63 189,66 170,85 175,111 151,99 127,111 132,85 
+    113,66 139,63 " transform="translate(155,50)"/>
+
+</svg>

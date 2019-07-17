@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="512" width="512">
+
+  <rect width="512" height="512" stroke="red" fill="white"/>
+
+  <path d="
+    M206 114
+    C
+    13 53 41 13 410 99 
+    402 212 57 236 272 123 
+    20 209 186 151 26 114z" fill="none" stroke="#000" stroke-width="1px"/>
+
+  <circle fill="Lavender" stroke="#f0f1" cx="306" cy="314" r="15" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+ <circle fill="Lavender" stroke="#f0f1" cx="326" cy="214" r="24" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+ <circle fill="Lavender" stroke="#f0f1" cx="206" cy="114" r="26" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+<circle fill="Lavender" stroke="#f0f1" cx="140" cy="164" r="16" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="0" />
+  </circle>
+
+ <circle cx="200" cy="200" fill='purple' stroke="#f0f1" r="10"/>
+<circle cx="270" cy="180" fill='yellow' stroke="#f0f1" r="20"/>
+<circle cx="350" cy="110" fill='gold' stroke="#f0f1" r="15"/>
+</svg>
+
